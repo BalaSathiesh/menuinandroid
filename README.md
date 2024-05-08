@@ -99,11 +99,8 @@ In menu/option.xml
 </menu>
 ```
 ## OUTPUT
-![Screenshot_20240502_080559](https://github.com/Harsayazheni/menuinandroid/assets/118708467/db207fb9-e5b8-4fcb-a802-9288085ac334)
-![Screenshot_20240502_080656](https://github.com/Harsayazheni/menuinandroid/assets/118708467/51e07fa8-4846-4f52-a211-83ce20326a77)
-
-
-
+![optionmenu](https://github.com/BalaSathiesh/menuinandroid/assets/128462891/df66868a-30f7-4b34-98b8-402147114d01)
+![optionmenu2](https://github.com/BalaSathiesh/menuinandroid/assets/128462891/7b4d905d-b1a2-42d7-b0bf-0d35df0454d9)
 
 ## RESULT
 Thus a Simple Android Application to create a option menu to display menu items using Android Studio is developed and executed successfully.
